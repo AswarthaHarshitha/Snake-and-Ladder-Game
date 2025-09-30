@@ -87,18 +87,16 @@ The project uses the Value Iteration algorithm to solve the Snake and Ladder gam
 
 ## Screenshots
 - `steps_distribution`
-- <img width="1000" height="600" alt="steps_distribution" src="https://github.com/user-attachments/assets/ca9b1193-79ca-4531-951e-7e4459a8a95f" />
+  <img width="1000" height="600" alt="steps_distribution" src="https://github.com/user-attachments/assets/ca9b1193-79ca-4531-951e-7e4459a8a95f" />
     Histogram of steps to win across simulations.
-- `value_iteration_results'
-- <img width="1200" height="800" alt="value_iteration_results" src="https://github.com/user-attachments/assets/a90d2dc2-9ef5-443c-a41a-a82919cde96c" />
+
+- `value_iteration_results`
+  <img width="1200" height="800" alt="value_iteration_results" src="https://github.com/user-attachments/assets/a90d2dc2-9ef5-443c-a41a-a82919cde96c" />
      Value function and optimal policy visualization.
-- `learning_curve'
-- <img width="1000" height="600" alt="learning_curve" src="https://github.com/user-attachments/assets/8f07a417-8bc5-45d0-ad4d-4ef716e25c24" />
+   
+- `learning_curve`
+  <img width="1000" height="600" alt="learning_curve" src="https://github.com/user-attachments/assets/8f07a417-8bc5-45d0-ad4d-4ef716e25c24" />
      Learning progress over iterations.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 ## Contributing
 
